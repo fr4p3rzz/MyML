@@ -11,7 +11,7 @@ def softmax(values: list[float]) -> list[float]:
 
     return results
 
-def make_dataset(text: str, char_to_id: dict, window_size: int = 4):
+def make_dataset(text: str, char_to_id: dict, window_size: int = 6):
     encoded = encode(text, char_to_id)
     dataset = []
 
@@ -44,24 +44,7 @@ def decode(code_list: list[int], id_to_char: dict[int, str]) -> str:
 
     return string
 
-def predict(prompt, layers, char_to_id, id_to_char, max_len=100):
-    generated = prompt
-
-    for _ in range(max_len):
-        window = generated[-4:]  # ultimi 4 caratteri
-        input_encoded = [float(char_to_id.get(c, 0)) for c in window]
-        output, _ = network(input_encoded)
-        probs = softmax(output)
-        next_id = probs.index(max(probs))  # greedy
-        next_char = id_to_char[next_id]
-        generated += next_char
-
-        if next_char == '\n':  # oppure altro segnale di stop
-            break
-
-    return generated[len(prompt):]
-
-def predict_n_chars(prompt, layers, char_to_id, id_to_char, max_length=100, window_size=4):
+def predict_n_chars(prompt, layers, char_to_id, id_to_char, max_length=100, window_size=6):
     generated = prompt
 
     for _ in range(max_length):
@@ -85,3 +68,10 @@ def predict_n_chars(prompt, layers, char_to_id, id_to_char, max_length=100, wind
         generated += next_char
 
     return generated[len(prompt):] 
+
+
+def validate_vocab(model, id_to_char):
+    output_size = len(model[-1].neurons)
+    vocab_size = len(id_to_char)
+    if output_size != vocab_size:
+        raise ValueError(f"Mismatch tra output del modello ({output_size}) e vocab size ({vocab_size})")

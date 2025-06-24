@@ -2,7 +2,7 @@ from neuron import Neuron
 import random
 
 class Layer:
-    learning_rate = 0.01
+    learning_rate = 0.0075
     def __init__(self, inputList, activeNeurons):
         self.inputList = inputList
         self.neurons = [
@@ -30,7 +30,7 @@ class Layer:
             for next_neuron in next_layer.neurons:
                 if i < len(next_neuron.weights):  # Protezione
                     downstream_gradient += next_neuron.weights[i] * next_neuron.delta
-            neuron.delta = downstream_gradient * neuron.sigmoid_derivative()
+            neuron.delta = downstream_gradient * neuron.relu_derivative()
     
     def update_weights(self):
         for neuron in self.neurons:

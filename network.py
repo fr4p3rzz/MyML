@@ -1,8 +1,8 @@
 from layer import Layer
 from simple_tokenizer import VOCAB_CHARS
 
-neuronsPerLayer = 12
-HiddenLayers = 5
+neuronsPerLayer = 64
+HiddenLayers = 3
 
 def network(inputList, preloaded_layers=None):
     if preloaded_layers is not None:

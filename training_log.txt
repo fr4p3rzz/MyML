@@ -1,0 +1,227 @@
+Epoch: 0 || Output: aÜ>;éAĮVT@yó5?M || Epoch Loss: 5.2286
+Epoch: 0 || Output: ŌĕD,ÝÂ«ë)rŸÒězY || Epoch Loss: 5.2348
+Epoch: 0 || Output: 7ønõÏmç@>ZÊŭKøį || Epoch Loss: 5.2998
+Epoch: 1 || Output: uĒLăŪŬ5'CÑd5á!
+ || Epoch Loss: 5.2004
+Epoch: 2 || Output: —ŭùęoĔÀĪZ7GéÛîÁ || Epoch Loss: 5.2242
+Epoch: 3 || Output: O’õŷ?ûh5*åç]Ů î || Epoch Loss: 5.2591
+Epoch: 4 || Output: {àÜéïÝHėûŪĔÁ‘nî || Epoch Loss: 5.1981
+Epoch: 5 || Output: HŭèQ{ŸSŷaÒ}7áêè || Epoch Loss: 5.1070
+Epoch: 6 || Output: çÔïÓÁÄíA9ýÑÛÄ’E || Epoch Loss: 5.5032
+Epoch: 7 || Output: õèâ&yõŪŐZívcÇäñ || Epoch Loss: 5.3306
+Epoch: 8 || Output: RwCÏā0WĄÌŸ|#JĔq || Epoch Loss: 5.0929
+Epoch: 9 || Output: ÛÑ».zĭŸĚÓ#ûâÌZĖ || Epoch Loss: 5.4407
+Epoch: 10 || Output: 2ã!ãxe.-ýŸĖ*‘êp || Epoch Loss: 5.2765
+Epoch: 11 || Output: Áĕ%ęçŐIãüÚü^ĕEB || Epoch Loss: 5.2313
+Epoch: 12 || Output: áĄ3GĀÏ@ÁĘąÈOVbp || Epoch Loss: 5.2256
+Epoch: 13 || Output: 3Ěë>d'wcXő2ù}Òe || Epoch Loss: 5.5166
+Epoch: 14 || Output: â)ėTE‘ ýÝ–#ōKhï || Epoch Loss: 5.3747
+Epoch: 15 || Output: ÅX'Xëe 
+è?Ã<ÛSÏ || Epoch Loss: 5.2038
+Epoch: 16 || Output: bã)	Omĕą\!ý’ÒRū || Epoch Loss: 5.1447
+Epoch: 17 || Output: 4ÅPNÎÉÚĖ0fŸ"ĕŶn || Epoch Loss: 5.0767
+Epoch: 18 || Output: éGòôö—ŸRĔÅÝ}Ĭ»q || Epoch Loss: 5.3002
+Epoch: 19 || Output: úGnh3ă>àūēù	J6Ė || Epoch Loss: 5.3407
+Epoch: 20 || Output: ŮpwÌ9ęëēÚïZ_ĔéŶ || Epoch Loss: 5.4083
+Epoch: 21 || Output: ŷlą,#èÔÃøĭòñÅo9 || Epoch Loss: 5.4731
+Epoch: 22 || Output: í\āÏ6 ŪEĮ6tőū<K || Epoch Loss: 5.2940
+Epoch: 23 || Output: _zzâ%àaKÀ»ăŮûØý || Epoch Loss: 5.3462
+Epoch: 24 || Output: >āįī4ÅbùÊ{o'ÜEú || Epoch Loss: 5.2092
+Epoch: 25 || Output: KåÎøFKËØąĭâyĚk0 || Epoch Loss: 5.2950
+Epoch: 26 || Output: :(āĘyyĔöĪÃv&Süě || Epoch Loss: 5.4035
+Epoch: 27 || Output: CEôùĄÏąJóHL;āŶÚ || Epoch Loss: 5.2709
+Epoch: 28 || Output: ëŪŶÂàÕěJô\īÇsú
+ || Epoch Loss: 5.4549
+Epoch: 29 || Output: āŌjV_}îñ»ĚŮLŶWŶ || Epoch Loss: 5.2984
+Epoch: 30 || Output: ĪÃLüĒ)xŐĕ;O|" Į || Epoch Loss: 5.5810
+Epoch: 31 || Output: P:ęByòŪg7vÀvAĔÒ || Epoch Loss: 5.2146
+Epoch: 32 || Output: Pē*ËUă#Ěimą0^ąŷ || Epoch Loss: 5.3671
+Epoch: 33 || Output: Ïôÿ"ëÅÄø*+(GI1ě || Epoch Loss: 5.3560
+Epoch: 34 || Output: Ö>yF7ăQŮŌę;ÝÏK‘ || Epoch Loss: 5.5318
+Epoch: 35 || Output: ĄûąøUÿÙėėrêaYx| || Epoch Loss: 5.4604
+Epoch: 36 || Output: w)öañ	>^ÄĒŮçöoo || Epoch Loss: 5.4832
+Epoch: 37 || Output: hő1Ïl	ĬqùĪėĬW6ę || Epoch Loss: 5.1745
+Epoch: 38 || Output: kŶAØñŮ( \4é[âĚĭ || Epoch Loss: 5.3246
+Epoch: 39 || Output: bĔzÅWn1[É(râN<x || Epoch Loss: 5.3189
+Epoch: 40 || Output: ÙŶòūÇÑ?Ů_Ę^ïĭT^ || Epoch Loss: 5.1210
+Epoch: 41 || Output: –ãîă!ëÛ)åÙĖŭâŐĬ || Epoch Loss: 5.3385
+Epoch: 42 || Output: üEÓēõĖNô-bWRoĄM || Epoch Loss: 5.2170
+Epoch: 43 || Output: úèĪVōDĮýD}Ä^|B& || Epoch Loss: 5.3669
+Epoch: 44 || Output: ip—ÖÊ/d, Z{}ãĮU || Epoch Loss: 5.3379
+Epoch: 45 || Output: VÅĔÃÀ{–mÊÑÓÌÝïÑ || Epoch Loss: 5.3997
+Epoch: 46 || Output: ŸØñgY5ÌuÚōô‘ă[h || Epoch Loss: 5.2583
+Epoch: 47 || Output: ÔéÍīěī€èUû«Ê9Ì? || Epoch Loss: 5.3915
+Epoch: 48 || Output: PËñ8øqéf)ÇCWēã' || Epoch Loss: 5.2258
+Epoch: 49 || Output: ůŭVAŬįĭ=éÖÌ)'ĬĪ || Epoch Loss: 5.2377
+Epoch: 50 || Output: Ë+ÀBt–ŶxĚHìĒy€h || Epoch Loss: 5.3620
+Epoch: 51 || Output: 'HüM2OåÍÌnVÒŪ’1 || Epoch Loss: 5.2999
+Epoch: 52 || Output: 
+Ů1Nă%x.<ĪÝ1ė7í || Epoch Loss: 5.1773
+Epoch: 53 || Output: 9ÔWēÖÛĄ(ÉJůòő2Å || Epoch Loss: 5.2580
+Epoch: 54 || Output: 'ŶĬÏ6Ū}W}MŷÏeJÄ || Epoch Loss: 5.2542
+Epoch: 55 || Output: C9ōý[«–-vnÝ-āĕø || Epoch Loss: 5.3957
+Epoch: 56 || Output: P'ËÃĄYËăÀ
+)’aĚ> || Epoch Loss: 5.3721
+Epoch: 57 || Output: ù*M’îuĭę€È’Ö  ö || Epoch Loss: 5.0887
+Epoch: 58 || Output: 7h%Ö%nj’.UÜÖ	M3 || Epoch Loss: 5.3593
+Epoch: 59 || Output: éq
+}xòÏo–åNÂ'Bq || Epoch Loss: 5.3156
+Epoch: 60 || Output: ĚÉF+}3Įý@åK	}mw || Epoch Loss: 5.4048
+Epoch: 61 || Output: <UŐå6ąG>įÿëïôŮō || Epoch Loss: 5.4118
+Epoch: 62 || Output: ō\YJ]Yû’m|ÁfÊñõ || Epoch Loss: 5.2446
+Epoch: 63 || Output: VGBăĄG^îÁÛ=G1?N || Epoch Loss: 5.4604
+Epoch: 64 || Output: ÂcÅ'ęýÓ}Ŭ@ę|ěÓū || Epoch Loss: 5.5227
+Epoch: 65 || Output: áËâ.ĄçMDK'n#Bol || Epoch Loss: 5.1495
+Epoch: 66 || Output: òq\Û\AWCÙŷTsÛ+Ă || Epoch Loss: 5.3278
+Epoch: 67 || Output: %ÃêJàĚ8ËÄÕ#UêF< || Epoch Loss: 5.5166
+Epoch: 68 || Output: bl'ëAkă"āF}r1őů || Epoch Loss: 5.5525
+Epoch: 69 || Output: ŮŸÈ
+QÌùyäeHmkCÎ || Epoch Loss: 5.2526
+Epoch: 70 || Output: ’ÿI»ĒŌ5ó
+Ø]Īē0r || Epoch Loss: 5.2318
+Epoch: 71 || Output: {Ī"|Ą"W|4%ōøî,ÿ || Epoch Loss: 5.3374
+Epoch: 72 || Output: 8Ùö<SèÂ—=-àĄê1ä || Epoch Loss: 5.4444
+Epoch: 73 || Output: sÿÏânåDOąÒăÜýbĪ || Epoch Loss: 5.2617
+Epoch: 74 || Output: b-OŷŬòĭ7ÃF|äPÀñ || Epoch Loss: 5.1652
+Epoch: 75 || Output: XūB
+êÅû}võÉ9ïÏj || Epoch Loss: 5.3293
+Epoch: 76 || Output: kěZânhdĄŌį;Ùmn| || Epoch Loss: 5.4923
+Epoch: 77 || Output: =ÏÑ(ohĔö_ËŐ‘Týj || Epoch Loss: 5.2450
+Epoch: 78 || Output: ō#ìóįH1Û4ůĬó[ÿ– || Epoch Loss: 5.5367
+Epoch: 79 || Output: ÚÿYØn(īìò2ÎòÁ–ŭ || Epoch Loss: 5.1831
+Epoch: 80 || Output: BÎ	îŸ0D—ą[d"LEĖ || Epoch Loss: 5.4080
+Epoch: 81 || Output: mÌÎ
+"īàĚDô—"ĚÙê || Epoch Loss: 5.2758
+Epoch: 82 || Output: wÕ3_a/nZÜmËYÉbû || Epoch Loss: 5.2095
+Epoch: 83 || Output: ñ):NĚA3KÙKőįÏÕY || Epoch Loss: 5.1924
+Epoch: 84 || Output: ĄÜūS'ăÑĕ>ohMŌì	 || Epoch Loss: 5.2035
+Epoch: 85 || Output: _;ÿĕÀâúĔ2?Ç€Ō3Ĭ || Epoch Loss: 5.2783
+Epoch: 86 || Output: Õ	ĘçĘĀŶÈzKpătĂ& || Epoch Loss: 5.3074
+Epoch: 87 || Output: ]’ŷ[Āąő@i(QR9z1 || Epoch Loss: 5.3137
+Epoch: 88 || Output: ýĕăôěRÏ@ōō6Ç0ĪŶ || Epoch Loss: 5.3419
+Epoch: 89 || Output: .îiĭůŶ?‘ô|ZĔÜñó || Epoch Loss: 5.3070
+Epoch: 90 || Output: ÔÃüÙØ«ÿäéÑÏ9|èē || Epoch Loss: 5.2819
+Epoch: 91 || Output: =!Őt
+ôÌ—ks>įWÂt || Epoch Loss: 5.2563
+Epoch: 92 || Output: rSůĮĪËóâP+ŷĭ–àĂ || Epoch Loss: 5.2890
+Epoch: 93 || Output: ÜysôëcFgŶÒąHhõ* || Epoch Loss: 5.2615
+Epoch: 94 || Output: !ŪÂmĕ5ůÒÚ0{ŮGĘn || Epoch Loss: 5.2665
+Epoch: 95 || Output: aga|#]â:9ÎÀn(îØ || Epoch Loss: 5.2752
+Epoch: 96 || Output: ö
+eŌÍ–8wceQ‘hĔĀ || Epoch Loss: 5.4445
+Epoch: 97 || Output: MÈdî‘6’Ã#Wõkŷ\ã || Epoch Loss: 5.3953
+Epoch: 98 || Output: —Mf\Y–ÑŮhÇHĒ‘C% || Epoch Loss: 5.3762
+Epoch: 99 || Output: 6.;bkÑ
+YĬēEM/»v || Epoch Loss: 5.2176
+Epoch: 100 || Output: bÏ’å}ĖjB9
+]uÀCP || Epoch Loss: 5.3104
+Epoch: 101 || Output: Ę\gÿkĪőĘĒD!8ýūů || Epoch Loss: 5.4117
+Epoch: 102 || Output: Ca ōm|aÕúō|Ó"5t || Epoch Loss: 5.3916
+Epoch: 103 || Output: «Ì4:VHåęéÊÌ=ÉÑû || Epoch Loss: 5.2685
+Epoch: 104 || Output: 5’ïïw‘Î8]>ĮÄa.Ů || Epoch Loss: 5.2797
+Epoch: 105 || Output: ‘ŷ1UvÑñPLÕåĄĔÁă || Epoch Loss: 5.1991
+Epoch: 106 || Output: åàĀ/Nù;	ą)ë5hĘÉ || Epoch Loss: 5.3330
+Epoch: 107 || Output: È89#ŶøÚ-aZUū}ėû || Epoch Loss: 5.5898
+Epoch: 108 || Output: FKUÁō\
+guîí]çĭz || Epoch Loss: 5.1274
+Epoch: 109 || Output: 5ÎTMĂZÛ9VXÍĮbÃŌ || Epoch Loss: 5.1747
+Epoch: 110 || Output: jěãIzėůW#ÙÄĬāůp || Epoch Loss: 5.2587
+Epoch: 111 || Output: ēiĬ»€ì'īaŶ–ñkĔŷ || Epoch Loss: 5.1565
+Epoch: 112 || Output: q</V9ůóp!õ4ýôī^ || Epoch Loss: 5.2678
+Epoch: 113 || Output: hÌĮDÛÓåĖĚiő{ÿ-l || Epoch Loss: 5.3075
+Epoch: 114 || Output: MjÍvīDiüTç'Ú<N1 || Epoch Loss: 5.2619
+Epoch: 115 || Output: õīÙ
+&6yBñ<Ùô,{ï || Epoch Loss: 5.1515
+Epoch: 116 || Output: ĔőĂòJÄăĚFìM1(T/ || Epoch Loss: 5.2895
+Epoch: 117 || Output: vmvąkýÖõ*ėUtĘø» || Epoch Loss: 5.0390
+Epoch: 118 || Output: ăąsĬ9ēXÁá[SxĀÂø || Epoch Loss: 5.3624
+Epoch: 119 || Output: ÑĮÜAĮfLñAb2MÙqŪ || Epoch Loss: 5.2894
+Epoch: 120 || Output: }xN?tìÚ.WŪÀozÀ{ || Epoch Loss: 5.4097
+Epoch: 121 || Output: è62ęuÎ*Ąv[wÊvůą || Epoch Loss: 5.2636
+Epoch: 122 || Output: FêÓeãÒfÁtĬ9&ùãg || Epoch Loss: 5.3857
+Epoch: 123 || Output: OÂYtzÝĖeÇR@A+ØP || Epoch Loss: 5.4374
+Epoch: 124 || Output: IÌŐĔĘ_Āīō]"N‘>N || Epoch Loss: 5.4090
+Epoch: 125 || Output: ő?ÝanH^ė1S]’Ĕę) || Epoch Loss: 5.2449
+Epoch: 126 || Output: &7UhúŸËSÔGŌC É‘ || Epoch Loss: 5.2562
+Epoch: 127 || Output: ÄCXNØLĪÃůvīqãŬ» || Epoch Loss: 5.3766
+Epoch: 128 || Output: Ė JCöÓÓę|v@Të*9 || Epoch Loss: 5.4355
+Epoch: 129 || Output: —M»*ÕEØöêb)LÂö< || Epoch Loss: 5.2323
+Epoch: 130 || Output: Uī*ÓĖ%ĕ+hüe,áõÃ || Epoch Loss: 5.2552
+Epoch: 131 || Output: O3&áūě8ę[Í
+Uò«[ || Epoch Loss: 5.2249
+Epoch: 132 || Output: äyLä::Ø+Ě(Ã‘è#Û || Epoch Loss: 5.1977
+Epoch: 133 || Output: ĘĪ?TŬöÕĒrŷdçōõ
+ || Epoch Loss: 5.3933
+Epoch: 134 || Output: 4>ÔçÒ8õxÙÜf«Ï,c || Epoch Loss: 5.5066
+Epoch: 135 || Output: dEę9òó\€2[–»mÀH || Epoch Loss: 5.6143
+Epoch: 136 || Output: ÙkV?ŭÜçûÃēúìŪOì || Epoch Loss: 5.3952
+Epoch: 137 || Output: XăÎé@ęÁ:ĘŶBýĖb> || Epoch Loss: 5.4594
+Epoch: 138 || Output: Á*Í»c eÙMUVe
+Oü || Epoch Loss: 5.2317
+Epoch: 139 || Output: lÏŌĂ9\ì?Ùębâp>Î || Epoch Loss: 5.1902
+Epoch: 140 || Output: öMâaĂtxpû"c3ÓŌ) || Epoch Loss: 5.4438
+Epoch: 141 || Output: ūz36őzôÂÈÝ	ĕsĕä || Epoch Loss: 5.3413
+Epoch: 142 || Output: rù–ōÃŮlQWFÉYÈÂW || Epoch Loss: 5.3205
+Epoch: 143 || Output: ÑĮÚĮŐyÁÉÀNÍė+íê || Epoch Loss: 5.3298
+Epoch: 144 || Output: ą=Ĕ<ÝÖÏëlóýÇ’ĄĚ || Epoch Loss: 5.1181
+Epoch: 145 || Output: įI	ĔĒîö0WlõáUrę || Epoch Loss: 5.3337
+Epoch: 146 || Output: Ut@4E#}Ę
+êÉqfÙă || Epoch Loss: 5.2286
+Epoch: 147 || Output: «öj]HÝNÈ
+RÑëÔwŮ || Epoch Loss: 5.3251
+Epoch: 148 || Output: òÚz9ÓĪÿRĔēzWtÒ/ || Epoch Loss: 5.1827
+Epoch: 149 || Output: GĖ{ūęÕPIú7Óī*mb || Epoch Loss: 5.2041
+Epoch: 150 || Output: UĀàFâ@cĪTô0f\Ęő || Epoch Loss: 5.3490
+Epoch: 151 || Output: Ï!ăñà)øT{QêÎLàW || Epoch Loss: 5.3317
+Epoch: 152 || Output: !ÈùÀsrĮōA	Epxgg || Epoch Loss: 5.4277
+Epoch: 153 || Output: ÌĂ|ÖôóàÃVĘpuWo2 || Epoch Loss: 5.5094
+Epoch: 154 || Output: Jër-€!G:om1Múăì || Epoch Loss: 5.1567
+Epoch: 155 || Output: €N’ÛTĂÜ
+ŭqeHįī{ || Epoch Loss: 5.3778
+Epoch: 156 || Output: &?Ū/ůXHŶn#Y«óKŌ || Epoch Loss: 5.2176
+Epoch: 157 || Output: |ÚL}6Ě3Ą7.*!i|p || Epoch Loss: 5.2371
+Epoch: 158 || Output: õÑwÄaXÅ»Çā[3ōĭç || Epoch Loss: 5.3450
+Epoch: 159 || Output: ÜuEĀÉøâ"aăFĖU	Ō || Epoch Loss: 5.2137
+Epoch: 160 || Output: pÛöFūĕ|ĒBuiey	Ō || Epoch Loss: 5.3222
+Epoch: 161 || Output: CŬsÅ –Î5ôAŸÑh3K || Epoch Loss: 5.1791
+Epoch: 162 || Output: X <H8öĭzxE6G
+7P || Epoch Loss: 5.2210
+Epoch: 163 || Output: FzŭëêèōgrÜå4vēû || Epoch Loss: 5.3402
+Epoch: 164 || Output: MÊTAØ;maó.ý&ŐBĘ || Epoch Loss: 5.3732
+Epoch: 165 || Output: ÉĂaóÑûZĀ*tŐo|ì. || Epoch Loss: 5.2280
+Epoch: 166 || Output: Bpò6ėxjgöąĘdĕ"D || Epoch Loss: 5.2519
+Epoch: 167 || Output: >â+gūĪ7>SÉ1ÎZÕó || Epoch Loss: 5.3308
+Epoch: 168 || Output: ĬŐ1å;KØ^tŬ<xëēē || Epoch Loss: 5.3273
+Epoch: 169 || Output: eĬôāw	UÛáØāŶJE} || Epoch Loss: 5.2752
+Epoch: 170 || Output: g(jûÙ/LÚa{ēÖjÝÜ || Epoch Loss: 5.1838
+Epoch: 171 || Output: Ĕ!ŭgûXĪŶ|ąōůŷéĒ || Epoch Loss: 5.3997
+Epoch: 172 || Output: !ĮÒőqH?8åŪąs^0& || Epoch Loss: 5.1759
+Epoch: 173 || Output: āmËqé/īf@3«Ù1ěø || Epoch Loss: 5.3529
+Epoch: 174 || Output: )bZĬkjvFý{Ŷbàs% || Epoch Loss: 5.3638
+Epoch: 175 || Output: Ý{MÎ	&}ě)Ĕ	oPÃ- || Epoch Loss: 5.5108
+Epoch: 176 || Output: ŐûÁěÑĂ	Q[	ūóÎd' || Epoch Loss: 5.2993
+Epoch: 177 || Output: é=@âÎPÔaýŶŸeUËë || Epoch Loss: 5.1972
+Epoch: 178 || Output: &ègJŷ4+ZL1ÂÄ}ï2 || Epoch Loss: 5.3834
+Epoch: 179 || Output: vZĚą1üH8ï/ĒÇĄnŪ || Epoch Loss: 5.2222
+Epoch: 180 || Output: m^ĕ=::ýĭo,|OÅg« || Epoch Loss: 5.4121
+Epoch: 181 || Output: Ĕ€ēĀ0Ëgī*xÑ6-o? || Epoch Loss: 5.0334
+Epoch: 182 || Output: ŶáÄGĬÊŶĪRO2%ÊúŮ || Epoch Loss: 5.4049
+Epoch: 183 || Output: âù7āOůős^õ_kø]Ù || Epoch Loss: 5.2672
+Epoch: 184 || Output: É'ūpJJę;ØÑįHs{å || Epoch Loss: 5.3056
+Epoch: 185 || Output: r8j–ôÛÉěÖ,rW&/* || Epoch Loss: 5.3062
+Epoch: 186 || Output: @ö€2ä|ÍÃüò avwÈ || Epoch Loss: 5.2581
+Epoch: 187 || Output: 7M»uAdjŌ]É[àŷ
+A || Epoch Loss: 5.2470
+Epoch: 188 || Output: zXCØé6Sý—XÔ]1úd || Epoch Loss: 5.1591
+Epoch: 189 || Output: 9Ó_ÒĔ0"uYñ-1ÓÃÏ || Epoch Loss: 5.3750
+Epoch: 190 || Output: }ŷÀįÙĕXĘâÿwgnïH || Epoch Loss: 5.4806
+Epoch: 191 || Output: ËòÝĄéě.1(ÜĄĕëÏô || Epoch Loss: 5.4144
+Epoch: 192 || Output: 
+CIýÀÙÕGĪÌd1ěěf || Epoch Loss: 5.3590
+Epoch: 193 || Output: Ÿ	ÚĮ'zŶ6/*ËïŐăm || Epoch Loss: 5.3168
+Epoch: 194 || Output: 8OaÕRÇlXA"){<zą || Epoch Loss: 5.3466
+Epoch: 195 || Output: YÒêŶÊÍôòĘ>į#:SR || Epoch Loss: 5.4198
+Epoch: 196 || Output: ÊĭăPüGÔøb%QůÿÛÖ || Epoch Loss: 5.2893
+Epoch: 197 || Output: 9\y{Ýnj#ú:íÅÜąS || Epoch Loss: 5.2598
+Epoch: 198 || Output: z‘óêeĔeŪ(;ŭ8ï@Ò || Epoch Loss: 5.4244
+Epoch: 199 || Output: 9i+ěmįCìĭÙëŭÃĚÙ || Epoch Loss: 5.2406

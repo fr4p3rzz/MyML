@@ -1,19 +1,21 @@
 from utils import *
 from network import network
 from training import train
-from persistence import save_model, load_model
+from persistence import *
 from simple_tokenizer import charToValueDictionary, valueToCharDictionary
 import os
 
 log_path = "log.txt"
 model_path = "model.json"
 epochs = 75
-deeptrain_epochs = 100
+deeptrain_epochs = 200
 max_response_length = 100
+batch_size = 16
 
 # Carica o inizializza il modello
 if os.path.exists(model_path):
-    Layers = load_model(model_path)
+    Layers, charToValueDictionary, valueToCharDictionary = load_full_model(model_path)
+    validate_vocab(Layers, valueToCharDictionary)
 else:
     output, Layers = network([0.0] * len(charToValueDictionary)) 
 
@@ -23,7 +25,7 @@ while True:
     user_input = input("Tu: ").strip()
 
     if user_input.lower() == "exit":
-        save_model(Layers)
+        save_full_model(Layers, charToValueDictionary, valueToCharDictionary)
         print("Modello salvato. Uscita.")
         break
 
@@ -33,8 +35,8 @@ while True:
 
         print("Deep training in corso su tutto il log.txt...")
 
-        train(full_text, charToValueDictionary, valueToCharDictionary, deeptrain_epochs, 8)
-        save_model(Layers)
+        train(full_text, charToValueDictionary, valueToCharDictionary, deeptrain_epochs, batch_size)
+        save_full_model(Layers, charToValueDictionary, valueToCharDictionary)
 
         # Genera una preview dal prompt "cia" per monitorare l'apprendimento
         preview = predict_n_chars("cia", Layers, charToValueDictionary, valueToCharDictionary, max_response_length)
