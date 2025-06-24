@@ -3,8 +3,8 @@ from utils import *
 lowercase = list("abcdefghijklmnopqrstuvwxyz")
 uppercase = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 digits = list("0123456789")
-punctuation = list(".,!?;:-_()[]{}'\"@#€%^&*/+=<>\\|")
-accents = list("àèéìòù")
+punctuation = list(".,!?;:-_()[]{}'\"@#€%^&*/+=<>\\|«»’‘—–")
+accents = list("àáâãäåāăąèéêëēĕėęěìíîïīĭįòóôõöøōőùúûüūŭůýÿŷçñÀÁÂÃÄÅĀĂĄÈÉÊËĒĔĖĘĚÌÍÎÏĪĬĮÒÓÔÕÖØŌŐÙÚÛÜŪŬŮÝŸŶÇÑ")
 specials = [' ', '\t', '\n']
 
 VOCAB_CHARS = lowercase + uppercase + digits + punctuation + accents + specials

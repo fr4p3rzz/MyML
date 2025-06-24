@@ -1,21 +1,33 @@
 from utils import *
 from network import network
+from persistence import save_model
+from random import shuffle
+from tqdm import trange
 
-def train(text, char_to_id, id_to_char):
-
+def train(text, char_to_id, id_to_char, epochs=1, batch_size=8, existing_layers=None):
     dataset = make_dataset(text, char_to_id)
-    normalizedLogits = []
-    losses = []
 
-    for step, (input, target) in enumerate(dataset):
-            input_floats = [float(i) for i in input]
-            normalized = softmax(network(input_floats))
-            normalizedLogits.append(normalized)
-            losses.append(cross_entropy_loss(normalized, target))
+    for epoch in trange(epochs, desc="🧠 Training", unit="ep"):
+        for i in range(0, len(dataset), batch_size):
+            batch = dataset[i:i+batch_size]
+            losses = []
+            all_layers = []
 
-            if step < 5:
-                print(f"Step {step}: input {input} → target {target}, loss = {losses[-1]:.4f}")
+            for input, target in batch:
+                input_floats = [float(i) for i in input]
+                output, layers = network(input_floats, existing_layers)
+                loss = cross_entropy_loss(softmax(output), target)
+                layers[-1].backward(target)
+                losses.append(loss)
+                all_layers.append(layers)
 
+            for depth in range(len(all_layers[0]) - 2, -1, -1):
+                for layers in all_layers:
+                    layers[depth].backward_from_next_layer(layers[depth + 1])
+
+            for layers in all_layers:
+                for layer in layers:
+                    layer.update_weights()
 
     average_loss = sum(losses) / len(losses)
-    print(f"\nLoss media su {len(losses)} esempi: {average_loss:.4f}")
+    print(f"\n📉 Loss media su {len(losses)} esempi: {average_loss:.4f}")
