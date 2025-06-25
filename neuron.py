@@ -1,7 +1,6 @@
 import math
 
 class Neuron:
-
     def __init__(self, weights, bias):
         self.weights = weights
         self.bias = bias
@@ -9,39 +8,32 @@ class Neuron:
         self.last_output = None
         self.delta = None
 
+        self.grad_acc_weights = [0.0 for _ in weights]
+        self.grad_acc_bias = 0.0
+
     def forward(self, inputList):
         self.last_input = inputList
         z = sum(i * w for i, w in zip(inputList, self.weights)) + self.bias
         self.last_output = self.relu(z)
         return self.last_output
-    
+
     def relu(self, x):
-        return max(0, x)
+        return x if x > 0 else 0.01 * x  # Leaky ReLU
 
     def relu_derivative(self):
-        return 1 if self.last_output > 0 else 0
-    
-    def store_delta(self, delta):
-        self.delta = delta
+        return 1 if self.last_output > 0 else 0.01
 
-    def sigmoid(self, x):
-        return 1 / (1 + math.exp(-x))
-
-    def sigmoid_derivative(self):
-        return self.last_output * (1 - self.last_output)
-    
     def delta_backward(self, target):
         return (self.last_output - target) * self.relu_derivative()
-        
-    def update_weights(self, learning_rate=0.01):
-        newWeights = []
-        for w, i in zip(self.weights, self.last_input):
-            newWeights.append(w - learning_rate * self.delta * i)
-        self.weights = newWeights
-        self.bias -= learning_rate * self.delta
 
-    def update_weights_from_delta(self, learning_rate=0.01):
-        newWeights = []
-        for w, i in zip(self.weights, self.last_input):
-            newWeights.append(w - learning_rate * self.delta * i)
-        self.weights = newWeights
+    def accumulate_gradients(self):
+        for i in range(len(self.weights)):
+            self.grad_acc_weights[i] += self.delta * self.last_input[i]
+        self.grad_acc_bias += self.delta
+
+    def update_weights(self, learning_rate, batch_size):
+        for i in range(len(self.weights)):
+            self.weights[i] -= learning_rate * (self.grad_acc_weights[i] / batch_size)
+            self.grad_acc_weights[i] = 0.0  
+        self.bias -= learning_rate * (self.grad_acc_bias / batch_size)
+        self.grad_acc_bias = 0.0  

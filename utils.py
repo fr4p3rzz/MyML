@@ -1,5 +1,6 @@
 import math
 from network import network
+from simple_tokenizer import make_one_hot_sequence
 
 def softmax(values: list[float]) -> list[float]:
 
@@ -22,12 +23,8 @@ def make_dataset(text: str, char_to_id: dict, window_size: int = 6):
 
     return dataset
 
-def cross_entropy_loss(pred: list[float], target: int) -> float:
-    epsilon = 1e-12
-    if target >= len(pred):
-        raise ValueError(f"Target index {target} is out of bounds for prediction of size {len(pred)}")
-
-    return - math.log(pred[target] + epsilon) 
+def cross_entropy_loss(predicted_probs, target_vector):
+    return -sum(t * math.log(p + 1e-12) for p, t in zip(predicted_probs, target_vector))
 
 
 def encode(str, char_to_id) -> list[int]:
@@ -48,26 +45,32 @@ def predict_n_chars(prompt, layers, char_to_id, id_to_char, max_length=100, wind
     generated = prompt
 
     for _ in range(max_length):
-        input_seq = generated[-window_size:]  # Prende gli ultimi n caratteri
+        
+        input_seq = generated[-window_size:]
+
         try:
-            input_ids = [float(char_to_id[c]) for c in input_seq]
+            input_ids = [char_to_id[c] for c in input_seq]
         except KeyError:
-            break  # Carattere non nel vocabolario
+            break  # carattere ignoto
 
-        # Padding se troppo corto
+        # Padding se troppo corta
         while len(input_ids) < window_size:
-            input_ids.insert(0, 0.0)
+            input_ids.insert(0, 0)
 
-        output, _ = network(input_ids)
+        # One-hot sequence
+        input_sequence = make_one_hot_sequence(input_ids, len(char_to_id))
+
+        # Forward pass
+        output, _ = network(input_sequence, layers)
         probs = softmax(output)
 
-        # Scegli carattere con probabilità massima
+        # Scegli il carattere con probabilità massima
         next_id = probs.index(max(probs))
         next_char = id_to_char[next_id]
-
         generated += next_char
 
-    return generated[len(prompt):] 
+    return generated[len(prompt):]
+
 
 
 def validate_vocab(model, id_to_char):
