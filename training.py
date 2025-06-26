@@ -68,7 +68,7 @@ def train(text, char_to_id, id_to_char, epochs=1, batch_size=8, existing_layers=
 
     
         
-        response = predict_n_chars("Giove", existing_layers, char_to_id, id_to_char, 15)
+        response = predict_n_chars("Giove", existing_layers, char_to_id, id_to_char, 30)
         epoch_loss = sum(losses) / len(losses)
         log_file.write(f"Epoch {epoch} | Loss: {epoch_loss:.4f} | Output: '{response}'\n")
         print(f" Epoch {epoch} | Loss: {epoch_loss:.4f}| Output: '{response}'")

@@ -1,158 +1,1605 @@
-Epoch 0 | Loss: 5.1604 | Output: '               '
-Epoch 1 | Loss: 5.1577 | Output: 'ddddddddddddddd'
-Epoch 2 | Loss: 5.1573 | Output: 'nnnnnnnnnnnnnnn'
-Epoch 3 | Loss: 5.1591 | Output: 'eeeeeeeeeeeeeee'
-Epoch 4 | Loss: 5.1573 | Output: 'eeeeeeeeeeeeeee'
-Epoch 5 | Loss: 5.1567 | Output: 'aaaaaaaaaaaaaaa'
-Epoch 6 | Loss: 5.1600 | Output: ',,,,,,,,,,,,,,,'
-Epoch 7 | Loss: 5.1599 | Output: 'ddddddddddddddd'
-Epoch 8 | Loss: 5.1607 | Output: 'mmmmmmmmmmmmmmm'
-Epoch 9 | Loss: 5.1585 | Output: 'ooooooooooooooo'
-Epoch 10 | Loss: 5.1592 | Output: '
-g
-g
-g
-g
-g
-g
-g
+Epoch 686 | Loss: 4.3948 | Output: '
+onon’eded a Nettuna,
+o  scde '
+Epoch 687 | Loss: 4.3948 | Output: '
+onon’eo
+so nana o scrltsceà?o'
+Epoch 688 | Loss: 4.3956 | Output: '
+onon’eo
+so Ginp onbered a dua'
+Epoch 689 | Loss: 4.3931 | Output: '
+onon’eded a Nettunàove ieAure'
+Epoch 690 | Loss: 4.3942 | Output: '
+onon’eo
+so Ginp on,ered lune,'
+Epoch 691 | Loss: 4.3934 | Output: '
+onon’eded a Nettuna,
+o  scde '
+Epoch 692 | Loss: 4.3946 | Output: '
+onon’eded a Nettunàove ieAure'
+Epoch 693 | Loss: 4.3946 | Output: '
+onon’eded a Nettunàove ieAuro'
+Epoch 694 | Loss: 4.3942 | Output: '
+onon’eded a Nettunàove ieAure'
+Epoch 695 | Loss: 4.3959 | Output: '
+onon’eded a Nettun della nogt'
+Epoch 696 | Loss: 4.3980 | Output: '
+onon’eo
+so Ginp on,ered l d a'
+Epoch 697 | Loss: 4.3945 | Output: '
+onon’eded a Nettun dell’olHca'
+Epoch 698 | Loss: 4.3942 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 699 | Loss: 4.3939 | Output: '
+onon’eded a Nettun Ae,d o cer'
+Epoch 700 | Loss: 4.3954 | Output: '
+onon’eolle  iscidelle. o iire'
+Epoch 701 | Loss: 4.3962 | Output: '
+onon’eo
+so Ginp on,e El ol co'
+Epoch 702 | Loss: 4.3932 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 703 | Loss: 4.3936 | Output: '
+onon’eded a Nettun Ole eë sco'
+Epoch 704 | Loss: 4.3929 | Output: '
+onon’eded a Nettun della terr'
+Epoch 705 | Loss: 4.3915 | Output: '
+onon’eded a Nettun della terr'
+Epoch 706 | Loss: 4.3906 | Output: '
+onon’eded a Nettun della terr'
+Epoch 707 | Loss: 4.3910 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 708 | Loss: 4.3902 | Output: '
+onon’eded a bune a allcIna o '
+Epoch 709 | Loss: 4.3953 | Output: '
+onon’eo
+so Ginp on,e El ol de'
+Epoch 710 | Loss: 4.3924 | Output: '
+onon’eded a Nettun Almo cana '
+Epoch 711 | Loss: 4.3937 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 712 | Loss: 4.3900 | Output: '
+onon’eded a Nettun Ae,d o len'
+Epoch 713 | Loss: 4.3926 | Output: '
+onon’eded a Nettun della terr'
+Epoch 714 | Loss: 4.3898 | Output: '
+onon’eo
+so cana allarra ze se'
+Epoch 715 | Loss: 4.3894 | Output: '
+onon’eded a Nettun della terr'
+Epoch 716 | Loss: 4.3901 | Output: '
+onon’eded a Nettun della terr'
+Epoch 717 | Loss: 4.3888 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 718 | Loss: 4.3889 | Output: '
+onon’eded a Nettun della terr'
+Epoch 719 | Loss: 4.3906 | Output: '
+onon’eo
+so Ginp onbered a dua'
+Epoch 720 | Loss: 4.3891 | Output: '
+onon’eded a Nettun della terr'
+Epoch 721 | Loss: 4.3895 | Output: '
+onon’eo
+so cana i scdeAe
+e cs'
+Epoch 722 | Loss: 4.3893 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 723 | Loss: 4.3886 | Output: '
+onon’eded a Nettun della terr'
+Epoch 724 | Loss: 4.3885 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 725 | Loss: 4.3890 | Output: '
+onon’eded a Nettun della terr'
+Epoch 726 | Loss: 4.3881 | Output: '
+onon’eded a Nettun della terr'
+Epoch 727 | Loss: 4.3899 | Output: '
+onon’eded a Nettun della terr'
+Epoch 728 | Loss: 4.3885 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 729 | Loss: 4.3897 | Output: '
+onon’eded a Nettun della terr'
+Epoch 730 | Loss: 4.3889 | Output: '
+onon’eded a Nettun della terr'
+Epoch 731 | Loss: 4.3887 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 732 | Loss: 4.3884 | Output: '
+onon’eded a Nettun Ole eë son'
+Epoch 733 | Loss: 4.3893 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 734 | Loss: 4.3876 | Output: '
+onon’eded a Nettun Ole eë son'
+Epoch 735 | Loss: 4.3887 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 736 | Loss: 4.3888 | Output: '
+onon’eded a Nettun Ole eë sco'
+Epoch 737 | Loss: 4.3885 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 738 | Loss: 4.3890 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 739 | Loss: 4.3882 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 740 | Loss: 4.3895 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 741 | Loss: 4.3885 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 742 | Loss: 4.3893 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 743 | Loss: 4.3886 | Output: '
+onon’eded a Nettun della terr'
+Epoch 744 | Loss: 4.3882 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 745 | Loss: 4.3888 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 746 | Loss: 4.3881 | Output: '
+onon’eded a Nettun della terr'
+Epoch 747 | Loss: 4.3886 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 748 | Loss: 4.3871 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 749 | Loss: 4.3880 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 750 | Loss: 4.3874 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 751 | Loss: 4.3886 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 752 | Loss: 4.3882 | Output: '
+onon’eded a Nettun dell’ollco'
+Epoch 753 | Loss: 4.3894 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 754 | Loss: 4.3876 | Output: '
+onon’eded a Venere occcilmenr'
+Epoch 755 | Loss: 4.3895 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 756 | Loss: 4.3894 | Output: '
+onon’eded a Venere occcilmenr'
+Epoch 757 | Loss: 4.3944 | Output: '
+onon’eded a Venere occcilmenr'
+Epoch 758 | Loss: 4.3931 | Output: '
+onon’eded a Venere occcilmaa
 '
-Epoch 11 | Loss: 5.1591 | Output: 'ggggggggggggggg'
-Epoch 12 | Loss: 5.1576 | Output: 'ttttttttttttttt'
-Epoch 13 | Loss: 5.1600 | Output: '’ccvc’ccvc’ccvc'
-Epoch 14 | Loss: 5.1607 | Output: 'ooooooooooooooo'
-Epoch 15 | Loss: 5.1615 | Output: 'mmmmmmmmmmmmmmm'
-Epoch 16 | Loss: 5.1627 | Output: 'ccccccccccccccc'
-Epoch 17 | Loss: 5.1621 | Output: 'mmmmmmmmmmmmmmm'
-Epoch 18 | Loss: 5.1625 | Output: 'mmmmmmmmmmmmmmm'
-Epoch 19 | Loss: 5.1621 | Output: 'iiiiiiiiiiiiiii'
-Epoch 20 | Loss: 5.1594 | Output: 'smmmmmmmmmmmmmm'
-Epoch 21 | Loss: 5.1612 | Output: 'ooooooooooooooo'
-Epoch 22 | Loss: 5.1599 | Output: 'mmmmmmmmmmmmmmm'
-Epoch 23 | Loss: 5.1628 | Output: 'aaaaaaaaaaaaaaa'
-Epoch 24 | Loss: 5.1601 | Output: '...............'
-Epoch 25 | Loss: 5.1621 | Output: '...............'
-Epoch 26 | Loss: 5.1618 | Output: '...............'
-Epoch 27 | Loss: 5.1627 | Output: '...............'
-Epoch 28 | Loss: 5.1615 | Output: '...............'
-Epoch 29 | Loss: 5.1628 | Output: '...............'
-Epoch 30 | Loss: 5.1636 | Output: '...............'
-Epoch 31 | Loss: 5.1632 | Output: '...............'
-Epoch 32 | Loss: 5.1624 | Output: '...............'
-Epoch 33 | Loss: 5.1627 | Output: '...............'
-Epoch 34 | Loss: 5.1627 | Output: '...............'
-Epoch 35 | Loss: 5.1620 | Output: '...............'
-Epoch 36 | Loss: 5.1633 | Output: '...............'
-Epoch 37 | Loss: 5.1619 | Output: '...............'
-Epoch 38 | Loss: 5.1605 | Output: '...............'
-Epoch 39 | Loss: 5.1625 | Output: '...............'
-Epoch 40 | Loss: 5.1636 | Output: '...............'
-Epoch 41 | Loss: 5.1630 | Output: '...............'
-Epoch 42 | Loss: 5.1623 | Output: '...............'
-Epoch 43 | Loss: 5.1616 | Output: '...............'
-Epoch 44 | Loss: 5.1620 | Output: '...............'
-Epoch 45 | Loss: 5.1631 | Output: '.m.............'
-Epoch 46 | Loss: 5.1620 | Output: '.m.mmmmmmmmmmmm'
-Epoch 47 | Loss: 5.1606 | Output: '.m.mmmmmmmmmmmm'
-Epoch 48 | Loss: 5.1617 | Output: '.mmmmmmmmmmmmmm'
-Epoch 49 | Loss: 5.1628 | Output: 'iiiiiiiiiiiiiii'
-Epoch 50 | Loss: 5.1612 | Output: '. t t t t t t t'
-Epoch 51 | Loss: 5.1608 | Output: 'ttttttttttttttt'
-Epoch 52 | Loss: 5.1616 | Output: 'ttttttttttttttt'
-Epoch 53 | Loss: 5.1581 | Output: 'ttttttttttttttt'
-Epoch 54 | Loss: 5.1565 | Output: 'ritritritritrit'
-Epoch 55 | Loss: 5.1530 | Output: 'riiiiiiiiiiiiii'
-Epoch 56 | Loss: 5.1457 | Output: 'iiiiiiiiiiiiiii'
-Epoch 57 | Loss: 5.1425 | Output: 'iiiiiiiiiiiiiii'
-Epoch 58 | Loss: 5.1413 | Output: 'iiiiiiiiiiiiiii'
-Epoch 59 | Loss: 5.1405 | Output: 'iiiiiiiiiiiiiii'
-Epoch 60 | Loss: 5.1396 | Output: 'iiiiiiiiiiiiiii'
-Epoch 61 | Loss: 5.1382 | Output: 'iiiiiiiiiiiiiii'
-Epoch 62 | Loss: 5.1380 | Output: 'iiiiiiiiiiiiiii'
-Epoch 63 | Loss: 5.1370 | Output: 'iiiiiiiiiiiiiii'
-Epoch 64 | Loss: 5.1356 | Output: 'iiiiiiiiiiiiiii'
-Epoch 65 | Loss: 5.1353 | Output: 'iiiiiiiiiiiiiii'
-Epoch 66 | Loss: 5.1339 | Output: 'iiiiiiiiiiiiiii'
-Epoch 67 | Loss: 5.1335 | Output: 'iiiiiiiiiiiiiii'
-Epoch 68 | Loss: 5.1324 | Output: 'iiiiiiiiiiiiiii'
-Epoch 69 | Loss: 5.1317 | Output: 'iiiiiiiiiiiiiii'
-Epoch 70 | Loss: 5.1314 | Output: 'iiiiiiiiiiiiiii'
-Epoch 71 | Loss: 5.1302 | Output: 'iiiiiiiiiiiiiii'
-Epoch 72 | Loss: 5.1295 | Output: 'iiiiiiiiiiiiiii'
-Epoch 73 | Loss: 5.1284 | Output: 'iiiiiiiiiiiiiii'
-Epoch 74 | Loss: 5.1276 | Output: 'iiiiiiiiiiiiiii'
-Epoch 75 | Loss: 5.1231 | Output: 'iiiiiiiiiiiiiii'
-Epoch 76 | Loss: 5.1227 | Output: 'iiiiiiiiiiiiiii'
-Epoch 77 | Loss: 5.1195 | Output: 'iiiiiiiiiiiiiii'
-Epoch 78 | Loss: 5.1172 | Output: ' iiiiiiiiiiiiii'
-Epoch 79 | Loss: 5.1129 | Output: ' iiiiiiiiiiiiii'
-Epoch 80 | Loss: 5.1066 | Output: ' a a a a a a a '
-Epoch 81 | Loss: 5.1002 | Output: ' a a a a a a a '
-Epoch 82 | Loss: 5.0942 | Output: ' a a a a a a a '
-Epoch 83 | Loss: 5.0907 | Output: ' a a a a a a a '
-Epoch 84 | Loss: 5.0900 | Output: ' a a a a a a a '
-Epoch 85 | Loss: 5.0884 | Output: ' a a a a a a a '
-Epoch 86 | Loss: 5.0855 | Output: ' a a a a a a a '
-Epoch 87 | Loss: 5.0827 | Output: ' a a a a a a a '
-Epoch 88 | Loss: 5.0826 | Output: ' a a a a a a a '
-Epoch 89 | Loss: 5.0807 | Output: ' a a a a a a a '
-Epoch 90 | Loss: 5.0776 | Output: ' a a acacacacac'
-Epoch 91 | Loss: 5.0762 | Output: ' a a acacacacac'
-Epoch 92 | Loss: 5.0752 | Output: ' a acacacacacac'
-Epoch 93 | Loss: 5.0735 | Output: ' a acacacacacac'
-Epoch 94 | Loss: 5.0713 | Output: ' a acacacacacac'
-Epoch 95 | Loss: 5.0696 | Output: ' iiii iiii iiii'
-Epoch 96 | Loss: 5.0672 | Output: ' iiii iiii iiii'
-Epoch 97 | Loss: 5.0657 | Output: ' iiii iiii iiii'
-Epoch 98 | Loss: 5.0644 | Output: ' iiii iiii iiii'
-Epoch 99 | Loss: 5.0633 | Output: ' iiii iiii iiii'
-Epoch 100 | Loss: 5.0622 | Output: ' iiii iiii iiii'
-Epoch 101 | Loss: 5.0609 | Output: ' iiii iiii iiii'
-Epoch 102 | Loss: 5.0596 | Output: ' iiii iiii iiii'
-Epoch 103 | Loss: 5.0582 | Output: ' iiii iiii iiii'
-Epoch 104 | Loss: 5.0573 | Output: ' iiii iiii iiii'
-Epoch 105 | Loss: 5.0565 | Output: ' iiii iiii iiii'
-Epoch 106 | Loss: 5.0552 | Output: ' iiii iiii iiii'
-Epoch 107 | Loss: 5.0543 | Output: ' acaa a aa acaa'
-Epoch 108 | Loss: 5.0537 | Output: ' acaa a aa acaa'
-Epoch 109 | Loss: 5.0531 | Output: ' acaa a aa acaa'
-Epoch 110 | Loss: 5.0525 | Output: ' ad e aa a aa a'
-Epoch 111 | Loss: 5.0513 | Output: ' aa aa aa aa aa'
-Epoch 112 | Loss: 5.0497 | Output: ' te atte atte a'
-Epoch 113 | Loss: 5.0482 | Output: ' te atte atte a'
-Epoch 114 | Loss: 5.0469 | Output: ' te atte atte a'
-Epoch 115 | Loss: 5.0457 | Output: ' te atte atte a'
-Epoch 116 | Loss: 5.0449 | Output: ' atte atte atte'
-Epoch 117 | Loss: 5.0433 | Output: ' atte atte atte'
-Epoch 118 | Loss: 5.0418 | Output: ' atte atte atte'
-Epoch 119 | Loss: 5.0402 | Output: ' atte atte atte'
-Epoch 120 | Loss: 5.0379 | Output: ' atte atte atte'
-Epoch 121 | Loss: 5.0361 | Output: ' tette te tette'
-Epoch 122 | Loss: 5.0345 | Output: ' tette tette te'
-Epoch 123 | Loss: 5.0320 | Output: ' tette tette te'
-Epoch 124 | Loss: 5.0301 | Output: ' atte atte atte'
-Epoch 125 | Loss: 5.0269 | Output: ' atte atte atte'
-Epoch 126 | Loss: 5.0257 | Output: ' atte atte atte'
-Epoch 127 | Loss: 5.0237 | Output: ' atte atte atte'
-Epoch 128 | Loss: 5.0210 | Output: ' atte atte atte'
-Epoch 129 | Loss: 5.0188 | Output: ' atte atte atte'
-Epoch 130 | Loss: 5.0173 | Output: ' adi adi adi ad'
-Epoch 131 | Loss: 5.0161 | Output: ' adia ed ade ad'
-Epoch 132 | Loss: 5.0141 | Output: ' adia ed ade ad'
-Epoch 133 | Loss: 5.0120 | Output: ' adia ed ade ad'
-Epoch 134 | Loss: 5.0110 | Output: ' adia ed ade ad'
-Epoch 135 | Loss: 5.0087 | Output: 'dia idi aide ad'
-Epoch 136 | Loss: 5.0070 | Output: 'dia idididi aid'
-Epoch 137 | Loss: 5.0088 | Output: ' adi aidi aidi '
-Epoch 138 | Loss: 5.0068 | Output: 'dia ed ade adia'
-Epoch 139 | Loss: 5.0035 | Output: 'dia idididi aid'
-Epoch 140 | Loss: 5.0031 | Output: ' adi aide adi a'
-Epoch 141 | Loss: 4.9997 | Output: ' adia ei adid a'
-Epoch 142 | Loss: 5.0021 | Output: ' adi aidi aidi '
-Epoch 143 | Loss: 5.0030 | Output: ' adia ed ade ad'
-Epoch 144 | Loss: 4.9988 | Output: ' adi aidi aidi '
-Epoch 145 | Loss: 4.9983 | Output: ' adi aidi aidi '
-Epoch 146 | Loss: 4.9936 | Output: ' de ad a ei a d'
-Epoch 147 | Loss: 4.9953 | Output: ' adi aid ade ad'
-Epoch 148 | Loss: 4.9901 | Output: 'dia e aditde ad'
-Epoch 149 | Loss: 4.9887 | Output: ' de adi aidi ai'
+Epoch 759 | Loss: 4.3919 | Output: '
+onon’eded a Venere occigven
+E'
+Epoch 760 | Loss: 4.3930 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 761 | Loss: 4.3907 | Output: '
+onon’eded a Venere occigven
+E'
+Epoch 762 | Loss: 4.3897 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 763 | Loss: 4.3904 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 764 | Loss: 4.3890 | Output: '
+onon’eded a bune a allhgne o,'
+Epoch 765 | Loss: 4.3903 | Output: '
+onon’eded a Venere occigven
+E'
+Epoch 766 | Loss: 4.3951 | Output: '
+onon’eded a bune a llanre uo '
+Epoch 767 | Loss: 4.3910 | Output: '
+onon’eded a Venere occigven
+E'
+Epoch 768 | Loss: 4.3986 | Output: '
+onon’eded a beno, ode  etrenr'
+Epoch 769 | Loss: 4.3930 | Output: '
+onon’eded a Venere occigven
+E'
+Epoch 770 | Loss: 4.3938 | Output: '
+onon’eded a Venere occcilzaa '
+Epoch 771 | Loss: 4.3893 | Output: '
+onon’eded a Venere occcilm?a,'
+Epoch 772 | Loss: 4.3912 | Output: 'ëone, E alla faretra a
+G’antra'
+Epoch 773 | Loss: 4.3955 | Output: '
+onon’eded a Venere occcilm?a,'
+Epoch 774 | Loss: 4.3918 | Output: '
+onon’eded a Venere occcilmocn'
+Epoch 775 | Loss: 4.3964 | Output: '
+onon’eded a Nettun de, e a Fe'
+Epoch 776 | Loss: 4.3931 | Output: '
+onon’eded a Venere occcilzaa '
+Epoch 777 | Loss: 4.3912 | Output: '
+onon’eded a Venere occcilmo n'
+Epoch 778 | Loss: 4.3900 | Output: '
+onon’eded a Venere occcolze i'
+Epoch 779 | Loss: 4.3860 | Output: '
+onon’eded a Venere occcilmocn'
+Epoch 780 | Loss: 4.3895 | Output: 'dono, Edalle inso va di cen?a '
+Epoch 781 | Loss: 4.3836 | Output: '
+onon’eded a bune a llan
+Ecelz'
+Epoch 782 | Loss: 4.3887 | Output: 'ëone ovElina
+Ellcon e sne,
+ed '
+Epoch 783 | Loss: 4.3865 | Output: '
+onon’eded a Venere occcilzaa '
+Epoch 784 | Loss: 4.3847 | Output: '
+onon’eded a beno, ode  entron'
+Epoch 785 | Loss: 4.3905 | Output: '
+onon’eded a beno, ode  entico'
+Epoch 786 | Loss: 4.3913 | Output: '
+onon’eded a beno, Lde ionore,'
+Epoch 787 | Loss: 4.3885 | Output: '
+onon’eded a notte avvoHte e e'
+Epoch 788 | Loss: 4.3844 | Output: '
+onon’eded a beno, ode  etreno'
+Epoch 789 | Loss: 4.3832 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 790 | Loss: 4.3837 | Output: '
+onon’eded a Venere occcolze L'
+Epoch 791 | Loss: 4.3836 | Output: '
+onon’eded a bune a llan
+Ec,uo'
+Epoch 792 | Loss: 4.3826 | Output: '
+onon’eded a beno osde?t
+Tdun,'
+Epoch 793 | Loss: 4.3821 | Output: '
+onon’eded a bune a llan
+Ec,uo'
+Epoch 794 | Loss: 4.3855 | Output: '
+onon’eded a Nettun de, e a Fe'
+Epoch 795 | Loss: 4.3817 | Output: '
+onon’eded a Nettun de, e a Fe'
+Epoch 796 | Loss: 4.3823 | Output: '
+onon’eded a Nettun de
+Dell’dg'
+Epoch 797 | Loss: 4.3806 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 798 | Loss: 4.3819 | Output: '
+onon’eded a beno, ode  etreno'
+Epoch 799 | Loss: 4.3802 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 800 | Loss: 4.3810 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 801 | Loss: 4.3811 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 802 | Loss: 4.3808 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 803 | Loss: 4.3802 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 804 | Loss: 4.3805 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 805 | Loss: 4.3801 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 806 | Loss: 4.3803 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 807 | Loss: 4.3799 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 808 | Loss: 4.3805 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 809 | Loss: 4.3806 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 810 | Loss: 4.3801 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 811 | Loss: 4.3805 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 812 | Loss: 4.3808 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 813 | Loss: 4.3844 | Output: '
+onon’eded a Venere occki- cam'
+Epoch 814 | Loss: 4.3825 | Output: '
+onon’eded a Venere occki- cam'
+Epoch 815 | Loss: 4.3819 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 816 | Loss: 4.3802 | Output: '
+onon’eded a bune a llan
+dalla'
+Epoch 817 | Loss: 4.3807 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 818 | Loss: 4.3794 | Output: '
+onon’eded a beno, ode  eèr’do'
+Epoch 819 | Loss: 4.3806 | Output: '
+onon’eded a bune a llan
+Ec,uo'
+Epoch 820 | Loss: 4.3841 | Output: '
+onon’eded a noto ellcoto redc'
+Epoch 821 | Loss: 4.3823 | Output: '
+onon’eded a noto ellcoto redc'
+Epoch 822 | Loss: 4.3835 | Output: '
+onon’eded a beno, ode  eèrŬdo'
+Epoch 823 | Loss: 4.3844 | Output: '
+onon’eded a bune a llan
+Ec,uo'
+Epoch 824 | Loss: 4.3870 | Output: '
+onon’eded a noto e cco,
+e ll’'
+Epoch 825 | Loss: 4.3871 | Output: '
+onon
+d cima
+d lintra mollioër'
+Epoch 826 | Loss: 4.3832 | Output: '
+onon’eded a Venere occig-zino'
+Epoch 827 | Loss: 4.3820 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 828 | Loss: 4.3805 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 829 | Loss: 4.3806 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 830 | Loss: 4.3825 | Output: '
+onon’eded a noto e cco,
+e lla'
+Epoch 831 | Loss: 4.3811 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 832 | Loss: 4.3812 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 833 | Loss: 4.3804 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 834 | Loss: 4.3794 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 835 | Loss: 4.3797 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 836 | Loss: 4.3797 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 837 | Loss: 4.3787 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 838 | Loss: 4.3789 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 839 | Loss: 4.3790 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 840 | Loss: 4.3789 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 841 | Loss: 4.3794 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 842 | Loss: 4.3797 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 843 | Loss: 4.3784 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 844 | Loss: 4.3782 | Output: '
+onon’eded a Venere occig-zi ?'
+Epoch 845 | Loss: 4.3791 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 846 | Loss: 4.3828 | Output: '
+onon’eded a notte avvounell’.'
+Epoch 847 | Loss: 4.3856 | Output: '
+onon’eded a Venere occore
+a
+T'
+Epoch 848 | Loss: 4.3848 | Output: '
+onon’eded a Venere occig-zina'
+Epoch 849 | Loss: 4.3849 | Output: '
+onon’eded a noto e cco,
+e lla'
+Epoch 850 | Loss: 4.3824 | Output: '
+onon’eded a notte avvoutello.'
+Epoch 851 | Loss: 4.3822 | Output: '
+onon
+d cima
+dnA e echep el7do'
+Epoch 852 | Loss: 4.3821 | Output: '
+onon’eded a notce,
+edschid an'
+Epoch 853 | Loss: 4.3831 | Output: '
+onon’eded a notte avvoHte e e'
+Epoch 854 | Loss: 4.3823 | Output: '
+onon
+d clmete Martraltellab d'
+Epoch 855 | Loss: 4.3791 | Output: '
+onon
+Ed Ao
+Bion denso della t'
+Epoch 856 | Loss: 4.3802 | Output: '
+onon
+d cima
+d li’artnizon
+=al'
+Epoch 857 | Loss: 4.3800 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 858 | Loss: 4.3788 | Output: '
+onon
+d clmete cari alle. rarm'
+Epoch 859 | Loss: 4.3784 | Output: '
+onon
+d clmete Martraltellao e'
+Epoch 860 | Loss: 4.3775 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 861 | Loss: 4.3768 | Output: '
+onon
+d cima
+dna ’ellaco, e al'
+Epoch 862 | Loss: 4.3773 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 863 | Loss: 4.3785 | Output: '
+onon
+d cima
+dna ’ellaco, e al'
+Epoch 864 | Loss: 4.3763 | Output: '
+onon
+Ed dotte ivvounell’.or d'
+Epoch 865 | Loss: 4.3766 | Output: '
+onon
+Ed doure a’Tero pellantd'
+Epoch 866 | Loss: 4.3739 | Output: '
+onon
+d cima
+dna ’ell’dena
+rad'
+Epoch 867 | Loss: 4.3763 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 868 | Loss: 4.3758 | Output: '
+onon
+d cima
+dna ’ell’dena
+rad'
+Epoch 869 | Loss: 4.3758 | Output: '
+onon
+Ed doure a’Tero pellantd'
+Epoch 870 | Loss: 4.3752 | Output: '
+onon
+d cima
+dna ’ell’dena
+rad'
+Epoch 871 | Loss: 4.3769 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 872 | Loss: 4.3749 | Output: '
+onon
+d cima
+dna ’ell’denabred'
+Epoch 873 | Loss: 4.3753 | Output: '
+onon
+Ed Ao
+giono Shceàamallas'
+Epoch 874 | Loss: 4.3745 | Output: '
+onon
+d cima
+dna ’ell’denabred'
+Epoch 875 | Loss: 4.3763 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 876 | Loss: 4.3745 | Output: '
+onon
+d cima
+d li’artnizon
+=al'
+Epoch 877 | Loss: 4.3755 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 878 | Loss: 4.3738 | Output: '
+onon
+d cima
+d ante cali a sna'
+Epoch 879 | Loss: 4.3751 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 880 | Loss: 4.3746 | Output: '
+onon
+d cima
+dna ’ell’dena
+rad'
+Epoch 881 | Loss: 4.3758 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 882 | Loss: 4.3746 | Output: '
+onon
+d cima
+dna ’ell’dena
+rad'
+Epoch 883 | Loss: 4.3756 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 884 | Loss: 4.3749 | Output: '
+onon
+d clmete Martraltellaco,'
+Epoch 885 | Loss: 4.3755 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 886 | Loss: 4.3798 | Output: '
+onon
+Ed Aob rolicoko scolte e'
+Epoch 887 | Loss: 4.3795 | Output: '
+onon
+Ed Ao
+Bion dell’olpooleo'
+Epoch 888 | Loss: 4.3760 | Output: '
+onon
+Ed Ao
+Bion denso della t'
+Epoch 889 | Loss: 4.3795 | Output: '
+onon
+Ed Ao
+Bion denso della t'
+Epoch 890 | Loss: 4.3760 | Output: '
+onon
+Ed Aob ronpio ce,
+E schi'
+Epoch 891 | Loss: 4.3802 | Output: '
+onon
+Ed Ao
+giono Shi-red anre'
+Epoch 892 | Loss: 4.3801 | Output: '
+onon
+Ed ante cali a snantele,'
+Epoch 893 | Loss: 4.3850 | Output: '
+onon
+Ed Aob rolicoko alle far'
+Epoch 894 | Loss: 4.3925 | Output: '
+onon
+d clmet
+ana,
+rell’ro, e '
+Epoch 895 | Loss: 4.3887 | Output: '
+onon
+d ccàettele o nira almeg'
+Epoch 896 | Loss: 4.3836 | Output: '
+onon
+Ed ante cali also cccie '
+Epoch 897 | Loss: 4.3780 | Output: '
+onon
+Ed Aob ron’icostescoa
+Da'
+Epoch 898 | Loss: 4.3801 | Output: '
+onOGio o Enenio oeli e dnunes'
+Epoch 899 | Loss: 4.3758 | Output: '
+onOGio,
+e allo fna,ëe allcona'
+Epoch 900 | Loss: 4.3743 | Output: '
+onon
+Ed Aob ron’rcolinti o,
+E'
+Epoch 901 | Loss: 4.3763 | Output: '
+onon
+Ed an
+ralmadrarRe all’on'
+Epoch 902 | Loss: 4.3784 | Output: '
+onon
+Ed Aobrro ie Monàro, ee '
+Epoch 903 | Loss: 4.3762 | Output: '
+onon
+Ed an
+ralla ana anaë
+n=l'
+Epoch 904 | Loss: 4.3766 | Output: '
+onon
+Ed Ao
+Bro ?ce, e a Feno,'
+Epoch 905 | Loss: 4.3761 | Output: '
+onOGio,
+e allo fna,ëe all’Oce'
+Epoch 906 | Loss: 4.3741 | Output: '
+onon
+Ed an
+ralla ana ana
+InRG'
+Epoch 907 | Loss: 4.3737 | Output: '
+onon
+Ed an
+ralla ana anaëtce,'
+Epoch 908 | Loss: 4.3757 | Output: '
+onOGio,
+e allo fna,ze alle fa'
+Epoch 909 | Loss: 4.3761 | Output: '
+onOGio,
+e allo fna,ze alle ra'
+Epoch 910 | Loss: 4.3751 | Output: '
+onOGio,
+e allo fna,ze alle fa'
+Epoch 911 | Loss: 4.3747 | Output: '
+onon
+d vimtoo, ed a quant’alt'
+Epoch 912 | Loss: 4.3721 | Output: '
+onOGio,
+e allo fna,ëe all’Oce'
+Epoch 913 | Loss: 4.3686 | Output: '
+onOGio,
+e allo fna,ëe all’onC'
+Epoch 914 | Loss: 4.3699 | Output: '
+onOGio,
+e allo fna,ëe all’Oce'
+Epoch 915 | Loss: 4.3691 | Output: '
+onon
+d vimtoolàedro,
+Ed alla '
+Epoch 916 | Loss: 4.3714 | Output: '
+onOGio o Ene, ed a quant’alte'
+Epoch 917 | Loss: 4.3677 | Output: '
+onon
+d vimtoolàedgnoe o Leren'
+Epoch 918 | Loss: 4.3698 | Output: '
+onOGio,
+e allo fna,ze alle fa'
+Epoch 919 | Loss: 4.3669 | Output: '
+onOGio,
+e allo fndenDe ronirr'
+Epoch 920 | Loss: 4.3729 | Output: '
+onOGio o Ene, ed a Latona,
+Ed'
+Epoch 921 | Loss: 4.3693 | Output: '
+onOGio o EneEco ona
+onolterLo'
+Epoch 922 | Loss: 4.3664 | Output: '
+onOGio,
+e allo fna,zeEled nor'
+Epoch 923 | Loss: 4.3685 | Output: '
+onOGio o Enenio oell detso de'
+Epoch 924 | Loss: 4.3657 | Output: '
+onon
+d vimtool,
+En ol d nontr'
+Epoch 925 | Loss: 4.3696 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 926 | Loss: 4.3644 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 927 | Loss: 4.3672 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 928 | Loss: 4.3662 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 929 | Loss: 4.3651 | Output: '
+onon
+d Ona
+ael d iudii ee
+so '
+Epoch 930 | Loss: 4.3673 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 931 | Loss: 4.3643 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 932 | Loss: 4.3666 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 933 | Loss: 4.3655 | Output: '
+onon
+d vimtoolàedgno
+ollkaro '
+Epoch 934 | Loss: 4.3683 | Output: '
+onon
+d llac e ra sonka Ellcre'
+Epoch 935 | Loss: 4.3650 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 936 | Loss: 4.3661 | Output: '
+onOGio o Enenio oell detso de'
+Epoch 937 | Loss: 4.3630 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 938 | Loss: 4.3683 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 939 | Loss: 4.3631 | Output: '
+onon
+d vimtool,
+En ol d dio e'
+Epoch 940 | Loss: 4.3658 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 941 | Loss: 4.3650 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 942 | Loss: 4.3674 | Output: '
+onOGio o Ene, ed a quant’alte'
+Epoch 943 | Loss: 4.3641 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 944 | Loss: 4.3657 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 945 | Loss: 4.3625 | Output: '
+onOGio,
+e allo fna,zep ale’tc'
+Epoch 946 | Loss: 4.3650 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 947 | Loss: 4.3619 | Output: '
+onon
+d llac e ra sonka Ellcte'
+Epoch 948 | Loss: 4.3629 | Output: '
+onOGio o EneEc, onasce,
+edll’'
+Epoch 949 | Loss: 4.3667 | Output: '
+onOGio o EneEco ona
+onolterLo'
+Epoch 950 | Loss: 4.3642 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 951 | Loss: 4.3641 | Output: '
+onon
+d llac e ali onCttere
+o.'
+Epoch 952 | Loss: 4.3626 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 953 | Loss: 4.3629 | Output: '
+onon
+d llac e ra sonka Ellcte'
+Epoch 954 | Loss: 4.3617 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 955 | Loss: 4.3638 | Output: '
+onOGoved EunToole enti covven'
+Epoch 956 | Loss: 4.3612 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 957 | Loss: 4.3643 | Output: '
+onOGio o Enrecom cosco, e
+all'
+Epoch 958 | Loss: 4.3613 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 959 | Loss: 4.3629 | Output: '
+onOGio o Enrecom cosco, e
+all'
+Epoch 960 | Loss: 4.3654 | Output: '
+onon
+d llac e ra sonka Ellcre'
+Epoch 961 | Loss: 4.3638 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 962 | Loss: 4.3626 | Output: '
+onOGio o Enrecom cosco, e
+all'
+Epoch 963 | Loss: 4.3632 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 964 | Loss: 4.3618 | Output: '
+onOGio,
+e allo fna,zep derott'
+Epoch 965 | Loss: 4.3642 | Output: '
+onOGio o Enrec de
+essontD don'
+Epoch 966 | Loss: 4.3641 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 967 | Loss: 4.3664 | Output: '
+onon
+d llac e ra sonka Ellcre'
+Epoch 968 | Loss: 4.3642 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 969 | Loss: 4.3630 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 970 | Loss: 4.3636 | Output: '
+onon
+Ed anbra
+,oll’all cena o'
+Epoch 971 | Loss: 4.3626 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 972 | Loss: 4.3616 | Output: '
+onOGio o EneEso ttreAmee ona
+'
+Epoch 973 | Loss: 4.3621 | Output: '
+onOGio o Enenio oell detto uà'
+Epoch 974 | Loss: 4.3606 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 975 | Loss: 4.3635 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 976 | Loss: 4.3599 | Output: '
+onOGio o Enenio oell dette oE'
+Epoch 977 | Loss: 4.3633 | Output: '
+onOGio o Enenio oell detso de'
+Epoch 978 | Loss: 4.3611 | Output: '
+onOGio o Enenio oell dette oO'
+Epoch 979 | Loss: 4.3616 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 980 | Loss: 4.3624 | Output: '
+onOGio o Enrecale  csirie so '
+Epoch 981 | Loss: 4.3611 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 982 | Loss: 4.3629 | Output: '
+onOGio o Enrecale  csi ienso '
+Epoch 983 | Loss: 4.3610 | Output: '
+onOGio o Enenio oell dette oO'
+Epoch 984 | Loss: 4.3629 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 985 | Loss: 4.3603 | Output: '
+onOGio o Enenio oell dette oO'
+Epoch 986 | Loss: 4.3635 | Output: '
+onOGio o Enrecom cosco, e
+all'
+Epoch 987 | Loss: 4.3643 | Output: '
+onOGio o Ene, e a Feqo,no ïed'
+Epoch 988 | Loss: 4.3632 | Output: '
+onOGio o Enenio oell detto ud'
+Epoch 989 | Loss: 4.3630 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 990 | Loss: 4.3645 | Output: '
+onOGio o Enrecale unso eAllon'
+Epoch 991 | Loss: 4.3625 | Output: '
+onOGio o EneEso ttreAmee ona
+'
+Epoch 992 | Loss: 4.3673 | Output: '
+onOGio o Enenio oell detto ud'
+Epoch 993 | Loss: 4.3663 | Output: '
+onOGio o Enrenate denore, e a'
+Epoch 994 | Loss: 4.3671 | Output: '
+onOGio o Enrecole eëtcona
+di '
+Epoch 995 | Loss: 4.3667 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 996 | Loss: 4.3625 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 997 | Loss: 4.3634 | Output: '
+onOGio o Ene, ed a quant’alta'
+Epoch 998 | Loss: 4.3619 | Output: '
+onOGio o EneEco ona
+onolterLo'
+Epoch 999 | Loss: 4.3616 | Output: '
+onOGio o Enenoo  dvl’sn dznoa'
+Epoch 1000 | Loss: 4.3649 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 1001 | Loss: 4.3630 | Output: '
+onOGio o EneEso ttreAmee ona
+'
+Epoch 1002 | Loss: 4.3626 | Output: '
+onOGio o Enrecale  csirie so '
+Epoch 1003 | Loss: 4.3615 | Output: '
+onOGio o Enenoo o
+Giono Enmen'
+Epoch 1004 | Loss: 4.3615 | Output: '
+onOGio o Ene, ell. ena ondna,'
+Epoch 1005 | Loss: 4.3603 | Output: '
+onOGio o EneEso ttreAmee ona
+'
+Epoch 1006 | Loss: 4.3654 | Output: '
+onOGio o Ene, e a Feqo,no ïed'
+Epoch 1007 | Loss: 4.3645 | Output: '
+onOGio o Ene, ell’ draoto cll'
+Epoch 1008 | Loss: 4.3608 | Output: '
+onOGio o EneEco ona
+onolterLo'
+Epoch 1009 | Loss: 4.3616 | Output: '
+onOGio o Enrecole e
+scantri
+a'
+Epoch 1010 | Loss: 4.3600 | Output: '
+onOGio o Ene, ell’ drao o nsc'
+Epoch 1011 | Loss: 4.3600 | Output: '
+onOGio o EneEco ona
+onolterLo'
+Epoch 1012 | Loss: 4.3601 | Output: '
+onOGio o Enenoo  dvl’sn donco'
+Epoch 1013 | Loss: 4.3606 | Output: '
+onOGio o Enrecale  csirie so '
+Epoch 1014 | Loss: 4.3625 | Output: '
+onOL’escuso ccbio
+ all’onCeo '
+Epoch 1015 | Loss: 4.3621 | Output: '
+onOL’escuso ccbio
+ all’onCeo '
+Epoch 1016 | Loss: 4.3590 | Output: '
+onOGio o Enenoo  dvl’sn donco'
+Epoch 1017 | Loss: 4.3598 | Output: '
+onOL’escuso ccbio
+ all’onCeo '
+Epoch 1018 | Loss: 4.3585 | Output: '
+onOi Ellene aortonco,
+e ll’Te'
+Epoch 1019 | Loss: 4.3583 | Output: '
+onOL’escuso ccbio
+ all’onCeo '
+Epoch 1020 | Loss: 4.3582 | Output: '
+onOi Ellene aortonco,
+e ll’Te'
+Epoch 1021 | Loss: 4.3648 | Output: '
+onOGio o Enenso Lunana,ded ll'
+Epoch 1022 | Loss: 4.3601 | Output: '
+onOL’escuso ccbio
+ all’onCeo '
+Epoch 1023 | Loss: 4.3713 | Output: '
+onerio oere ere  dince= maso '
+Epoch 1024 | Loss: 4.3720 | Output: '
+AlaLl’ara intorno
+po=letti ce'
+Epoch 1025 | Loss: 4.3839 | Output: '
+onerio oere ere  din’ee alre '
+Epoch 1026 | Loss: 4.3762 | Output: '
+onEGigo no, e all’Oceàa
+andCa'
+Epoch 1027 | Loss: 4.3679 | Output: '
+onEGigo Molleollarera so csca'
+Epoch 1028 | Loss: 4.3680 | Output: '
+onEGigo Molleovi co, ezll de '
+Epoch 1029 | Loss: 4.3673 | Output: '
+onEGigo Molnoo
+E venarted
+ana'
+Epoch 1030 | Loss: 4.3635 | Output: '
+onOGio o EneEso ttra,aed all’'
+Epoch 1031 | Loss: 4.3633 | Output: '
+onon
+Ed antrto randrinaLte?ca'
+Epoch 1032 | Loss: 4.3604 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo a
+'
+Epoch 1033 | Loss: 4.3596 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo a,'
+Epoch 1034 | Loss: 4.3562 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo ar'
+Epoch 1035 | Loss: 4.3592 | Output: '
+onon
+Ed an
+ra
+scFi i aele etc'
+Epoch 1036 | Loss: 4.3557 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo ar'
+Epoch 1037 | Loss: 4.3600 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo ar'
+Epoch 1038 | Loss: 4.3561 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo ar'
+Epoch 1039 | Loss: 4.3605 | Output: '
+onon
+Ed Aob rollicona an caol'
+Epoch 1040 | Loss: 4.3554 | Output: '
+ono,
+Ed alla faretrata
+I viln'
+Epoch 1041 | Loss: 4.3581 | Output: '
+onon
+Ed anbra
+,olla nera E’ c'
+Epoch 1042 | Loss: 4.3551 | Output: '
+onon
+Ed anbra
+,oll’all cenart'
+Epoch 1043 | Loss: 4.3560 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo a,'
+Epoch 1044 | Loss: 4.3546 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1045 | Loss: 4.3528 | Output: '
+onon
+Ed an
+ra
+sonpatEllnCo a,'
+Epoch 1046 | Loss: 4.3530 | Output: '
+onon
+Ed anbra
+,oll’all dino o'
+Epoch 1047 | Loss: 4.3506 | Output: '
+onon
+Ed anbra
+,oll’all dino o'
+Epoch 1048 | Loss: 4.3519 | Output: '
+onon
+Ed anbra
+,oll’all dino o'
+Epoch 1049 | Loss: 4.3533 | Output: '
+onon
+Ed antrtca,te
+?eltdo col'
+Epoch 1050 | Loss: 4.3517 | Output: '
+onon
+Ed an
+ra
+notte avvo
+tell'
+Epoch 1051 | Loss: 4.3520 | Output: '
+onoN
+E llan eàa, ed a quant’a'
+Epoch 1052 | Loss: 4.3525 | Output: '
+onon
+Ed antrto randrinte
+esco'
+Epoch 1053 | Loss: 4.3495 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1054 | Loss: 4.3508 | Output: '
+onon
+Ed an
+ra
+notte avvo
+tell'
+Epoch 1055 | Loss: 4.3524 | Output: '
+ono,
+Ed alla faretrata
+Gïasti'
+Epoch 1056 | Loss: 4.3508 | Output: '
+onon
+Ed antrtcalte
+vana, ed a'
+Epoch 1057 | Loss: 4.3497 | Output: '
+onoN
+E llan eàa, ed a quant’a'
+Epoch 1058 | Loss: 4.3509 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1059 | Loss: 4.3493 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1060 | Loss: 4.3521 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1061 | Loss: 4.3510 | Output: '
+onon
+Ed antrtca,ted
+Ela te ra'
+Epoch 1062 | Loss: 4.3536 | Output: '
+onon
+Ed antrtcalte
+vana, ed a'
+Epoch 1063 | Loss: 4.3506 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1064 | Loss: 4.3516 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1065 | Loss: 4.3503 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1066 | Loss: 4.3494 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1067 | Loss: 4.3495 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1068 | Loss: 4.3481 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1069 | Loss: 4.3509 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1070 | Loss: 4.3494 | Output: '
+ono,
+Ed alla faretrata
+Gïastr'
+Epoch 1071 | Loss: 4.3494 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1072 | Loss: 4.3492 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1073 | Loss: 4.3491 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1074 | Loss: 4.3516 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1075 | Loss: 4.3494 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1076 | Loss: 4.3507 | Output: '
+onon
+Ed antra
+ï-cGi e a,
+ErEl'
+Epoch 1077 | Loss: 4.3483 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1078 | Loss: 4.3492 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1079 | Loss: 4.3491 | Output: '
+onon
+Ed antrtce,ted ona
+ne ia'
+Epoch 1080 | Loss: 4.3493 | Output: '
+onon
+Ed antra
+ï-cGi e a,
+ErEl'
+Epoch 1081 | Loss: 4.3501 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1082 | Loss: 4.3483 | Output: '
+onon
+Ed antra
+a
+vTdrabael ètr'
+Epoch 1083 | Loss: 4.3461 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1084 | Loss: 4.3456 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1085 | Loss: 4.3470 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1086 | Loss: 4.3476 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1087 | Loss: 4.3461 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1088 | Loss: 4.3461 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1089 | Loss: 4.3461 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1090 | Loss: 4.3450 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1091 | Loss: 4.3456 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1092 | Loss: 4.3459 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1093 | Loss: 4.3453 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1094 | Loss: 4.3452 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1095 | Loss: 4.3459 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1096 | Loss: 4.3479 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1097 | Loss: 4.3481 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1098 | Loss: 4.3490 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1099 | Loss: 4.3508 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1100 | Loss: 4.3480 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1101 | Loss: 4.3476 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1102 | Loss: 4.3444 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1103 | Loss: 4.3470 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1104 | Loss: 4.3443 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1105 | Loss: 4.3458 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1106 | Loss: 4.3434 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1107 | Loss: 4.3437 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1108 | Loss: 4.3439 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1109 | Loss: 4.3420 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1110 | Loss: 4.3443 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1111 | Loss: 4.3420 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1112 | Loss: 4.3437 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1113 | Loss: 4.3422 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1114 | Loss: 4.3428 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1115 | Loss: 4.3436 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1116 | Loss: 4.3427 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1117 | Loss: 4.3432 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1118 | Loss: 4.3430 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1119 | Loss: 4.3424 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1120 | Loss: 4.3427 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1121 | Loss: 4.3433 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1122 | Loss: 4.3417 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1123 | Loss: 4.3427 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1124 | Loss: 4.3423 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1125 | Loss: 4.3421 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1126 | Loss: 4.3428 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1127 | Loss: 4.3422 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1128 | Loss: 4.3432 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1129 | Loss: 4.3429 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1130 | Loss: 4.3423 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1131 | Loss: 4.3434 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1132 | Loss: 4.3413 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1133 | Loss: 4.3429 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1134 | Loss: 4.3418 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1135 | Loss: 4.3418 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1136 | Loss: 4.3433 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1137 | Loss: 4.3418 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1138 | Loss: 4.3437 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1139 | Loss: 4.3464 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1140 | Loss: 4.3494 | Output: '
+ono,
+Ed alla faretrata
+GïastM'
+Epoch 1141 | Loss: 4.3511 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1142 | Loss: 4.3528 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1143 | Loss: 4.3578 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1144 | Loss: 4.3513 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1145 | Loss: 4.3469 | Output: '
+ono,
+Ed alla faretrata
+Inante'
+Epoch 1146 | Loss: 4.3469 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1147 | Loss: 4.3468 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1148 | Loss: 4.3482 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1149 | Loss: 4.3430 | Output: '
+ono,
+Ed alla faretrata
+Iïante'
+Epoch 1150 | Loss: 4.3437 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1151 | Loss: 4.3423 | Output: '
+onONovocUiOa
+G ciin Coll’ett '
+Epoch 1152 | Loss: 4.3444 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1153 | Loss: 4.3426 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1154 | Loss: 4.3514 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1155 | Loss: 4.3431 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1156 | Loss: 4.3413 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1157 | Loss: 4.3393 | Output: '
+onONovollïOcUàai rira
+roll’El'
+Epoch 1158 | Loss: 4.3419 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1159 | Loss: 4.3411 | Output: '
+onONovollïOcoàno no,
+Ed alla '
+Epoch 1160 | Loss: 4.3411 | Output: '
+onONovollïOcoàno no,
+Ed alla '
+Epoch 1161 | Loss: 4.3380 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1162 | Loss: 4.3364 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1163 | Loss: 4.3380 | Output: '
+onONovollïOcoàro icGio e El E'
+Epoch 1164 | Loss: 4.3377 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1165 | Loss: 4.3354 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1166 | Loss: 4.3364 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1167 | Loss: 4.3358 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1168 | Loss: 4.3357 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1169 | Loss: 4.3358 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1170 | Loss: 4.3376 | Output: '
+onONovollïOcoàro icGio e El E'
+Epoch 1171 | Loss: 4.3361 | Output: '
+onON’E ilt’una,
+od EdivCer Oc'
+Epoch 1172 | Loss: 4.3360 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1173 | Loss: 4.3357 | Output: '
+onONovollïOcoàno no,
+Ed alla '
+Epoch 1174 | Loss: 4.3359 | Output: '
+ono,
+Ed alla faretrata
+Iïanar'
+Epoch 1175 | Loss: 4.3343 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1176 | Loss: 4.3339 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1177 | Loss: 4.3356 | Output: '
+onONovollïOcoàno no,
+Ed alla '
+Epoch 1178 | Loss: 4.3354 | Output: '
+onOLmEscalti auno,ose =llconp'
+Epoch 1179 | Loss: 4.3356 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1180 | Loss: 4.3351 | Output: '
+onONovollïOcoàno no,
+Ed alla '
+Epoch 1181 | Loss: 4.3361 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1182 | Loss: 4.3344 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1183 | Loss: 4.3399 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1184 | Loss: 4.3373 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1185 | Loss: 4.3364 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1186 | Loss: 4.3373 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1187 | Loss: 4.3345 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1188 | Loss: 4.3335 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1189 | Loss: 4.3348 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1190 | Loss: 4.3333 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1191 | Loss: 4.3342 | Output: '
+onOL’Eseuna, Edall’ duso in d'
+Epoch 1192 | Loss: 4.3331 | Output: '
+ono,
+Ed alla faretrata
+Gïantr'
+Epoch 1193 | Loss: 4.3333 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1194 | Loss: 4.3348 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1195 | Loss: 4.3329 | Output: '
+ono,
+Ed alla faretrata
+Gïanar'
+Epoch 1196 | Loss: 4.3346 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1197 | Loss: 4.3330 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1198 | Loss: 4.3340 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'
+Epoch 1199 | Loss: 4.3329 | Output: '
+ono,
+Ed alla faretrata
+Tïanao'

@@ -8,7 +8,7 @@ import os
 log_path = "log.txt"
 model_path = "model.json"
 epochs = 75
-deeptrain_epochs = 150
+deeptrain_epochs = 1200
 max_response_length = 100
 batch_size = 4
 
