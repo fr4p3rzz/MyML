@@ -18,7 +18,7 @@ di un Language Model moderno.
 
 ## Stato attuale
 
-- Recursive Neural Network composta da:
+- Recurrent Neural Network composta da:
   - un `RNNLayer` seguita da uno o più layer densi.
 - Codifica one-hot su un vocabolario statico configurabile.
 - Sistema di salvataggio e caricamento del modello in JSON.
