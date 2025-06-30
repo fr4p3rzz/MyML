@@ -26,6 +26,13 @@ di un Language Model moderno.
 - Possibilità di effettuare deep training retroattivo su un log riempito con il testo. É possibile aggiungere attivamente al log lo storico delle conversazioni.
 - Parametri di tuning completamente configurabili da un file centralizzato.
 
+# Funzionamento
+ - É necessario avere l' ambiente Python installato nel proprio sistema
+ - Avviare da bash il programma con il comando `python main.py`
+ - Il programma caricherá automaticamente il model attuale, se presente.
+ - utilizzare la keyword `deeptrain` per iniziare il training intensivo con le epoch definite
+ - utilizzare la keyword `exit` per chiudere il programma
+ - qualsiasi altro input attiverá la funzione chatbot 
 ---
 
 ## Funzionamento
