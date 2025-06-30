@@ -74,3 +74,5 @@ I commenti presenti all’interno degli script sono stati generati con ChatGPT 4
 Il progetto può essere utilizzato, distribuito e forkato liberamente senza alcuna autorizzazione da parte mia.  
 Se trovate errori, bug o avete suggerimenti, potete segnalarli all’indirizzo email:  
 `francesco.peruzzi.developer@gmail.com`
+
+--Last Update: 30/06/2025--
