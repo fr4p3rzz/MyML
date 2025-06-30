@@ -36,7 +36,7 @@ di un Language Model moderno.
  - utilizzare la keyword `deeptrain` per iniziare il training intensivo con le epoch definite
  - utilizzare la keyword `exit` per chiudere il programma
  - qualsiasi altro input attiverá la funzione chatbot 
- 
+
 ### Parametri e configurazione
 
 Tutti i principali parametri sono definiti nel file `tuning.py`, che funge da centro di controllo del modello:
@@ -67,7 +67,7 @@ Tutti i principali parametri sono definiti nel file `tuning.py`, che funge da ce
 | `training.py`      | Loop di training del modello, gestione batching, calcolo loss e backpropagation su tutti i layer |
 | `persistence.py`   | Funzioni di salvataggio e caricamento del modello completo in formato JSON |
 | `main.py`       | Programma principale che avvia il chatbot da terminale, gestisce input utente, comandi e training incrementale |
-| `log.txt`          | File di testo contenente lo storico delle conversazioni usato per il deep training retroattivo |
+| `log.txt`          | File di testo contenente Il contenuto definito dall' utente per il deep-train. Qualsiasi cosa incollata qui dentro allenerá il modello. |
 
 ---
 
