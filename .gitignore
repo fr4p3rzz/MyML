@@ -121,6 +121,12 @@ venv.bak/
 # Secret files
 secrets.txt
 
+#bot telegram
+bot.py
+
+# Long log personale
+log_copy.txt
+
 # Spyder project settings
 .spyderproject
 .spyproject
