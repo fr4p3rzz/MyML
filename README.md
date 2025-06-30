@@ -33,14 +33,17 @@ di un Language Model moderno.
 ### Parametri e configurazione
 
 Tutti i principali parametri sono definiti nel file `tuning.py`, che funge da centro di controllo del modello:
-WINDOW_SIZE     --->      Lunghezza della sequenza di input (numero di caratteri)
-NEURONS_PER_LAYER  --->   Numero di neuroni per ogni layer nascosto
-HIDDEN_LAYERS    --->     Numero totale di layer (1 RNN + n-1 densi)
-LEARNING_RATE   --->      Tasso di apprendimento
-BATCH_SIZE     --->       Dimensione del batch usato per il training
-DEEPTRAIN_EPOCHS  --->    Numero di epoche per il deep training retroattivo
-MAX_RESPONSE_LENGTH  ---> Lunghezza massima della risposta generata
-EVAL_PROMPT    --->       Prompt usato per la preview dopo il training
+
+| Parametro           | Descrizione                                           |
+|---------------------|-------------------------------------------------------|
+| `WINDOW_SIZE`       | Lunghezza della sequenza di input (numero di caratteri) |
+| `NEURONS_PER_LAYER` | Numero di neuroni per ogni layer nascosto             |
+| `HIDDEN_LAYERS`     | Numero totale di layer (1 RNN + n-1 densi)            |
+| `LEARNING_RATE`     | Tasso di apprendimento                                |
+| `BATCH_SIZE`        | Dimensione del batch usato per il training            |
+| `DEEPTRAIN_EPOCHS`  | Numero di epoche per il deep training retroattivo     |
+| `MAX_RESPONSE_LENGTH` | Lunghezza massima della risposta generata            |
+| `EVAL_PROMPT`       | Prompt usato per la preview dopo il training          |
 
 ## Struttura dei file principali
 
@@ -58,3 +61,16 @@ EVAL_PROMPT    --->       Prompt usato per la preview dopo il training
 | `persistence.py`   | Funzioni di salvataggio e caricamento del modello completo in formato JSON |
 | `main.py`       | Programma principale che avvia il chatbot da terminale, gestisce input utente, comandi e training incrementale |
 | `log.txt`          | File di testo contenente lo storico delle conversazioni usato per il deep training retroattivo |
+
+---
+
+## Disclaimer
+
+Il codice è fornito **as-is** e potrebbe contenere bug, errori strutturali o limiti funzionali.  
+Questo progetto è un **work in progress**: il funzionamento e la completezza del sistema non sono pertanto garantiti.  
+
+I commenti presenti all’interno degli script sono stati generati con ChatGPT 4.1-mini.
+
+Il progetto può essere utilizzato, distribuito e forkato liberamente senza alcuna autorizzazione da parte mia.  
+Se trovate errori, bug o avete suggerimenti, potete segnalarli all’indirizzo email:  
+`francesco.peruzzi.developer@gmail.com`
