@@ -30,7 +30,7 @@ di un Language Model moderno.
 
 ## Funzionamento
 
- - É necessario avere l' ambiente Python installato nel proprio sistema
+ - É necessario avere l' ambiente **Python 3.9** o superiore installato nel proprio sistema
  - Avviare da bash il programma con il comando `python main.py`
  - Il programma caricherá automaticamente il model attuale, se presente.
  - utilizzare la keyword `deeptrain` per iniziare il training intensivo con le epoch definite
